@@ -1,15 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Delius&family=Poetsen+One&display=swap');
 
 body {
-  background-image: url("https://cdn.mos.cms.futurecdn.net/HuGGeENt6kGyixe3hT9tnY.jpg");
+  background-image: url("https://merryseasons.com.au/cdn/shop/collections/brand.webp?v=1712475201");
   text-align: center;
+  background-size: cover;
+  width: 70%;
   margin: auto;
    font-family: "Poetsen One", serif;
 }
 
 h1{
   font-size: 30px;
-  color: white;
+  color: rgb(204, 163, 165);
 }
 
 #myCanvas {
