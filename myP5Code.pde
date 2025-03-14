@@ -18,7 +18,7 @@ draw = function(){
   ellipse(200, 200, 375, 375);
   fill(250, 240, 215);
   triangle(200, 104, 280, 280, 120, 280);
-  fill(149, 129, 156);
+  fill(149, 129, random(150, 170));
   
   textSize(13);
   
